@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:transparent;
+    padding:20px;
+}
+
+.edit-container{
+    max-width:760px;
+    margin:auto;
+    background:#fff;
+    border-radius:24px;
+    overflow:hidden;
+    box-shadow:0 12px 35px rgba(0,0,0,.08);
+}
+
+.edit-header{
+    background:linear-gradient(90deg,#0d6efd,#06b6d4);
+    color:#fff;
+    padding:22px 30px;
+    font-size:28px;
+    font-weight:700;
+}
+
+.edit-body{
+    padding:32px;
+}
+
+.form-group{
+    margin-bottom:22px;
+}
+
+.form-group label{
+    display:block;
+    margin-bottom:8px;
+    font-weight:600;
+}
+
+.input-box{
+    position:relative;
+}
+
+.input-box i{
+    position:absolute;
+    left:18px;
+    top:50%;
+    transform:translateY(-50%);
+    color:#0d6efd;
+}
+
+.input-box input{
+    width:100%;
+    padding:15px 18px 15px 48px;
+    border:1px solid #dbe2ea;
+    border-radius:16px;
+}
+
+.btn-row{
+    display:flex;
+    gap:16px;
+    margin-top:30px;
+}
+
+.btn-cancel,.btn-save{
+    flex:1;
+    border:none;
+    padding:15px;
+    border-radius:16px;
+    font-weight:600;
+    cursor:pointer;
+}
+
+.btn-cancel{
+    background:#e2e8f0;
+}
+
+.btn-save{
+    background:#16a34a;
+    color:#fff;
+}

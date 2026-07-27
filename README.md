@@ -93,5 +93,5 @@ Lemburu Bhuvaneswari
 * Computer Science Graduate
 * Passionate about Full-Stack Development, Python, Java, and AI/ML
 
-
+License
 This project is developed for academic and educational purposes.

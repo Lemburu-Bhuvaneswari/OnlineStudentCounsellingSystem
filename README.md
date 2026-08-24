@@ -1,121 +1,131 @@
 # 🎓 Online Student Counselling System
 
-A web-based counselling management system developed to simplify and streamline the counselling process between students, faculty members, HODs, and administrators. The system provides a centralized platform for managing counselling requests, tracking sessions, and improving communication within educational institutions.
+A web-based counselling management system developed to streamline counselling requests, counsellor assignment, counselling sessions, status tracking, feedback, and escalation of unresolved issues within educational institutions.
 
 ## 📌 Features
 
-- 🔐 Secure role-based authentication
-- 👨‍🎓 Student portal for submitting counselling requests
-- 👩‍🏫 Faculty portal to manage assigned students and counselling sessions
-- 🏫 HOD dashboard to monitor counselling progress and assign faculty
-- 👨‍💼 Admin panel for managing departments, students, faculty, and HODs
-- 📊 Counselling status tracking and monthly reports
-- 💬 Student feedback after counselling sessions
-- 🔍 Search and filter functionality for efficient record management
+* 🔐 Role-based authentication and access control
+* 👨‍🎓 Student portal for submitting counselling requests
+* 👩‍🏫 Faculty/Counsellor portal for managing assigned students and counselling sessions
+* 🏫 HOD dashboard for assigning counsellors and monitoring counselling progress
+* 👨‍💼 Admin panel for managing departments, students, faculty, and HODs
+* 📊 Counselling status tracking and monthly reports
+* 💬 Student feedback after counselling sessions
+* 🔍 Search and filter functionality
+* ⚠️ Escalation of unresolved counselling issues to the HOD
+* 📄 Report generation and PDF export
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* JSP
 
 ### Backend
 
-- Java (JSP & Servlets)
+* Java
+* Servlets
 
 ### Database
 
-- MySQL
+* MySQL
 
 ### Development Tools
 
-- NetBeans IDE
-- Apache Tomcat
-- MySQL Workbench
+* NetBeans IDE
+* Apache Tomcat
+* MySQL Workbench
 
 ## 📂 Modules
 
 ### 👨‍💼 Admin
 
-- Manage Departments
-- Manage Students
-- Manage Faculty
-- Manage HODs
-- View Reports
+* Manage departments
+* Manage students
+* Manage faculty
+* Manage HODs
+* View reports
 
 ### 🏫 HOD
 
-- Assign Students to Faculty
-- Monitor Counselling Status
-- View Student Feedback
-- Generate Reports
+* Assign students to faculty/counsellors
+* Monitor counselling status
+* View student feedback
+* Handle escalated issues
+* Generate reports
 
 ### 👩‍🏫 Faculty / Counsellor
 
-- View Assigned Students
-- Conduct Counselling Sessions
-- Update Counselling Status
-- View Student Details
+* View assigned students
+* Conduct counselling sessions
+* Update counselling status
+* View student details
+* Escalate unresolved issues to the HOD
 
 ### 👨‍🎓 Student
 
-- Register/Login
-- Submit Counselling Requests
-- Track Counselling Status
-- View Assigned Faculty
-- Submit Feedback
+* Register and login
+* Submit counselling requests
+* Track counselling request status
+* View assigned counsellor
+* View counselling sessions
+* Submit feedback
 
 ## 🚀 Project Workflow
 
 1. Student submits a counselling request.
-2. HOD assigns the student to a faculty counsellor.
-3. Faculty conducts counselling sessions and updates the status.
-4. Students can track their request and provide feedback.
-5. Admin monitors the overall counselling process and generates reports.
+2. HOD reviews the request and assigns a faculty counsellor.
+3. Counsellor conducts the counselling session and updates the status.
+4. Student can track the counselling request and session status.
+5. Unresolved issues can be escalated to the HOD.
+6. HOD reviews and resolves escalated issues.
+7. Admin monitors the overall system and generates reports.
 
 ## 🖥️ Screenshots
 
-### 👩‍🏫 Faculty / Counsellor Dashboard
+### 👩‍🏫 Counsellor Dashboard
 
-![Counsellor Dashboard](counsellor-dashboard.png)
+![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
 
 ### 📋 Counselling Management
 
-![Counselling Management](counselling-management.png)
+![Counselling Management](screenshots/counselling-management.png)
 
 ### 📝 Counselling Session
 
-![Counselling Session](counselling-session.png)
+![Counselling Session](screenshots/counselling-session.png)
 
 ### 👨‍🎓 Student Dashboard
 
-![Student Dashboard](student-dashboard.png)
+![Student Dashboard](screenshots/student-dashboard.png)
 
 ### 👤 Student Profile
 
-![Student Profile](student-profile.png)
+![Student Profile](screenshots/student-profile.png)
 
 ### 📊 Counselling Requests
 
-![Counselling Requests](counselling-requests.png)
+![Counselling Requests](screenshots/counselling-requests.png)
 
 ## 🎯 Future Enhancements
 
-- Email notifications
-- SMS alerts
-- Online appointment scheduling
-- AI-powered counselling recommendations
-- Analytics dashboard
-- Mobile application support
+* Email notifications
+* SMS alerts
+* Online appointment scheduling
+* AI-assisted counselling recommendations
+* Analytics dashboard
+* Mobile application support
 
 ## 👩‍💻 Author
 
 **Lemburu Bhuvaneswari**
 
-- Computer Science Graduate
-- Passionate about Full-Stack Development, Python, Java, and AI/ML
+Computer Science Graduate | Software Developer
+
+**Interests:** Java, Python, SQL, Data Structures & Algorithms, Web Development
 
 ## 📄 License
 

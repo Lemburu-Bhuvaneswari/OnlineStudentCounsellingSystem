@@ -86,29 +86,23 @@ A web-based counselling management system developed to streamline counselling re
 
 ## 🖥️ Screenshots
 
-### 👩‍🏫 Counsellor Dashboard
-
-![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
-
-### 📋 Counselling Management
-
-![Counselling Management](screenshots/counselling-management.png)
-
-### 📝 Counselling Session
-
-![Counselling Session](screenshots/counselling-session.png)
-
 ### 👨‍🎓 Student Dashboard
-
 ![Student Dashboard](screenshots/student-dashboard.png)
 
 ### 👤 Student Profile
-
 ![Student Profile](screenshots/student-profile.png)
 
-### 📊 Counselling Requests
-
+### 📊 Counselling Status / Requests
 ![Counselling Requests](screenshots/counselling-requests.png)
+
+### 👩‍🏫 Counsellor Dashboard
+![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
+
+### 📋 Counselling Management
+![Counselling Management](screenshots/counselling-management.png)
+
+### 📝 Counselling Session
+![Counselling Session](screenshots/counselling-session.png)
 
 ## 🎯 Future Enhancements
 

@@ -86,23 +86,35 @@ A web-based counselling management system developed to streamline counselling re
 
 ## 🖥️ Screenshots
 
-### 👨‍🎓 Student Dashboard
+### Figure 1 — Student Dashboard
 ![Student Dashboard](screenshots/student-dashboard.png)
 
-### 👤 Student Profile
-![Student Profile](screenshots/student-profile.png)
+**Caption:** *Figure 1: Student Dashboard*
 
-### 📊 Counselling Status / Requests
-![Counselling Requests](screenshots/counselling-requests.png)
+### Figure 2 — Post Counselling Request
+![Post Counselling Request](screenshots/post-counselling-request.png)
 
-### 👩‍🏫 Counsellor Dashboard
-![Counsellor Dashboard](screenshots/counsellor-dashboard.png)
+**Caption:** *Figure 2: Post Counselling Request*
 
-### 📋 Counselling Management
-![Counselling Management](screenshots/counselling-management.png)
+### Figure 3 — Counselling Request Status
+![Counselling Request Status](screenshots/counselling-request-status.png)
 
-### 📝 Counselling Session
-![Counselling Session](screenshots/counselling-session.png)
+**Caption:** *Figure 3: Counselling Request Status*
+
+### Figure 4 — Counsellor Assigned Students
+![Counsellor Assigned Students](screenshots/counsellor-assigned-students.png)
+
+**Caption:** *Figure 4: Counsellor Assigned Students*
+
+### Figure 5 — Counselling Records and Escalation
+![Counselling Records and Escalation](screenshots/counselling-records-escalation.png)
+
+**Caption:** *Figure 5: Counsellor Counselling Records and Escalation*
+
+### Figure 6 — Counselling Status
+![Counselling Status](screenshots/counselling-status.png)
+
+**Caption:** *Figure 6: Counselling Status*
 
 ## 🎯 Future Enhancements
 

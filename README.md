@@ -1,75 +1,73 @@
-# OnlineStudentCounsellingSystem
-Developed a web-based Online Student Counselling System to streamline counselling requests, session management, and communication between students, faculty, HODs, and administrators.
-🎓 Online Student Counselling System
+# 🎓 Online Student Counselling System
 
 A web-based counselling management system developed to simplify and streamline the counselling process between students, faculty members, HODs, and administrators. The system provides a centralized platform for managing counselling requests, tracking sessions, and improving communication within educational institutions.
 
-📌 Features
+## 📌 Features
 
-* 🔐 Secure role-based authentication
-* 👨‍🎓 Student portal for submitting counselling requests
-* 👩‍🏫 Faculty portal to manage assigned students and counselling sessions
-* 🏫 HOD dashboard to monitor counselling progress and assign faculty
-* 👨‍💼 Admin panel for managing departments, students, faculty, and HODs
-* 📊 Counselling status tracking and monthly reports
-* 💬 Student feedback after counselling sessions
-* 🔍 Search and filter functionality for efficient record management
+- 🔐 Secure role-based authentication
+- 👨‍🎓 Student portal for submitting counselling requests
+- 👩‍🏫 Faculty portal to manage assigned students and counselling sessions
+- 🏫 HOD dashboard to monitor counselling progress and assign faculty
+- 👨‍💼 Admin panel for managing departments, students, faculty, and HODs
+- 📊 Counselling status tracking and monthly reports
+- 💬 Student feedback after counselling sessions
+- 🔍 Search and filter functionality for efficient record management
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend
+### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
-Backend
+### Backend
 
-* Java (JSP & Servlets)
+- Java (JSP & Servlets)
 
-Database
+### Database
 
-* MySQL
+- MySQL
 
-Development Tools
+### Development Tools
 
-* NetBeans IDE
-* Apache Tomcat
-* MySQL Workbench
+- NetBeans IDE
+- Apache Tomcat
+- MySQL Workbench
 
-📂 Modules
+## 📂 Modules
 
-Admin
+### 👨‍💼 Admin
 
-* Manage Departments
-* Manage Students
-* Manage Faculty
-* Manage HODs
-* View Reports
+- Manage Departments
+- Manage Students
+- Manage Faculty
+- Manage HODs
+- View Reports
 
-HOD
+### 🏫 HOD
 
-* Assign Students to Faculty
-* Monitor Counselling Status
-* View Student Feedback
-* Generate Reports
+- Assign Students to Faculty
+- Monitor Counselling Status
+- View Student Feedback
+- Generate Reports
 
-Faculty
+### 👩‍🏫 Faculty / Counsellor
 
-* View Assigned Students
-* Conduct Counselling Sessions
-* Update Counselling Status
-* View Student Details
+- View Assigned Students
+- Conduct Counselling Sessions
+- Update Counselling Status
+- View Student Details
 
-Student
+### 👨‍🎓 Student
 
-* Register/Login
-* Submit Counselling Requests
-* Track Counselling Status
-* View Assigned Faculty
-* Submit Feedback
+- Register/Login
+- Submit Counselling Requests
+- Track Counselling Status
+- View Assigned Faculty
+- Submit Feedback
 
-🚀 Project Workflow
+## 🚀 Project Workflow
 
 1. Student submits a counselling request.
 2. HOD assigns the student to a faculty counsellor.
@@ -77,21 +75,48 @@ Student
 4. Students can track their request and provide feedback.
 5. Admin monitors the overall counselling process and generates reports.
 
-🎯 Future Enhancements
+## 🖥️ Screenshots
 
-* Email notifications
-* SMS alerts
-* Online appointment scheduling
-* AI-powered counselling recommendations
-* Analytics dashboard
-* Mobile application support
+### 👩‍🏫 Faculty / Counsellor Dashboard
 
- 👩‍💻 Author
+![Counsellor Dashboard](counsellor-dashboard.png)
 
-Lemburu Bhuvaneswari 
+### 📋 Counselling Management
 
-* Computer Science Graduate
-* Passionate about Full-Stack Development, Python, Java, and AI/ML
+![Counselling Management](counselling-management.png)
 
-License
+### 📝 Counselling Session
+
+![Counselling Session](counselling-session.png)
+
+### 👨‍🎓 Student Dashboard
+
+![Student Dashboard](student-dashboard.png)
+
+### 👤 Student Profile
+
+![Student Profile](student-profile.png)
+
+### 📊 Counselling Requests
+
+![Counselling Requests](counselling-requests.png)
+
+## 🎯 Future Enhancements
+
+- Email notifications
+- SMS alerts
+- Online appointment scheduling
+- AI-powered counselling recommendations
+- Analytics dashboard
+- Mobile application support
+
+## 👩‍💻 Author
+
+**Lemburu Bhuvaneswari**
+
+- Computer Science Graduate
+- Passionate about Full-Stack Development, Python, Java, and AI/ML
+
+## 📄 License
+
 This project is developed for academic and educational purposes.
